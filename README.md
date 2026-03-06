@@ -14,9 +14,13 @@ Now I'm looking for roles that combine my editorial experience with my technical
 
 ### Tech I work with
 Languages: Python, SQL
+
 ML/NLP: TensorFlow, scikit-learn, HuggingFace, BERT, BiLSTM, CNNs
+
 Frameworks: LangChain, FastAPI, Pydantic
+
 Cloud & Tools: AWS (SageMaker, Bedrock, Amplify), Docker, Kubernetes, Git, Bash
+
 Data: PostgreSQL, Redis, Chroma, ETL, data wrangling
 
 ### Get in touch
