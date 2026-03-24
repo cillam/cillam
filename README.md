@@ -8,7 +8,7 @@ So I went back to school. UC Berkeley's Master of Information and Data Science p
 Now I'm looking for roles that combine my editorial experience with my technical skills, particularly in AI engineering or ML-focused work at a company that values transparency and collaboration.
 
 ### What I'm working on
-📝 PursuitDocs — A multi-agent system that automates audit proposal letters. Takes an RFP, generates a compliant proposal, and iteratively reviews it for PCAOB independence issues. Building with LangChain/LangGraph, Anthropic Claude API, Chroma, and a React frontend on AWS Amplify.
+📝 PursuitDocs — Automates the audit proposal letter process. Takes an RFP, generates a compliant proposal, and iteratively reviews it for PCAOB independence issues. Building with LangChain/LangGraph, Anthropic Claude API, Chroma, and a React frontend on AWS Amplify.
 
 🐾 Animal Shelter Analytics Platform — Full-stack app for shelter animal analytics, outcome prediction, and AI-powered adoption bio generation. Building with React, FastAPI, PostgreSQL, Azure Databricks, and Terraform.
 
