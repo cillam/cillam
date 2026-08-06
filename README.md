@@ -17,10 +17,15 @@ Now I'm looking for roles that combine my editorial experience with my technical
 ## Tech I work with
  
 **Languages:** Python, SQL
+
 **ML/NLP:** TensorFlow, scikit-learn, HuggingFace
+
 **Edge & On-Device AI:** Raspberry Pi (GPIO), faster-whisper (STT), Piper (TTS), MobileNet-SSD via LiteRT/TFLite, picamera2
+
 **Frameworks & Libraries:** LangChain, LangGraph, FastAPI, Pydantic, gpiozero, Numpy, Pandas
+
 **Cloud & Tools:** AWS (SageMaker, Bedrock, Amplify), Docker, Kubernetes
+
 **Data:** PostgreSQL, Redis, Chroma
  
 ## Get in touch
