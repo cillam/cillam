@@ -12,7 +12,7 @@ Now I'm looking for roles that combine my editorial experience with my technical
  
 🚙 **California Vehicle Crash Analytics Platform** — Full-stack app for vehicle crash (CA only) analytics. In planning phase.
  
-🔮 **Purrserpina** — A voice-interactive Halloween animatronic: a Raspberry Pi cat-skeleton fortune teller that wakes to motion, listens to trick-or-treaters, and answers each one with an in-character, child-safe fortune — speaking aloud with her jaw synced to the audio and critiquing costumes through an onboard camera. Building with Python, the Anthropic Claude API (multimodal Haiku), offline speech-to-text (faster-whisper), local text-to-speech (Piper), and on-device vision (MobileNet-SSD via LiteRT) on Raspberry Pi GPIO.
+🔮 **Purrserpina** — A voice-interactive Halloween animatronic: a Raspberry Pi cat-skeleton fortune teller that wakes to motion, listens to trick-or-treaters, and answers each one with an in-character fortune — speaking aloud with her jaw synced to the audio. Building with Python, the Anthropic Claude API (Haiku), offline speech-to-text (faster-whisper), local text-to-speech (Piper), and on-device vision (MobileNet-SSD via LiteRT) on Raspberry Pi GPIO.
  
 ## Tech I work with
  
