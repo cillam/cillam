@@ -30,5 +30,8 @@ Now I'm looking for roles that combine my editorial experience with my technical
  
 ## Get in touch
  
-💼 linkedin.com/in/cillam
- 
+💼 [My LinkedIn](https://www.linkedin.com/in/cillam/)
+
+🌐 [My website](https://cillam.com)
+
+
